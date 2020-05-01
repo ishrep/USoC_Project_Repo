@@ -5,7 +5,7 @@ I am Ishan Agarwal, a student at UPES. I am currently pursuing B.Tech CSE with s
 
 - Worked on several projects with HTML, CSS, JS, PHP, Photoshop
 - Working on sharpening up my coding skills on C/C++
-- Recently started with Python, R and learning various statistical techniques
+- Recently started with Python, R and learning various statistical techniques.
 
 
 
